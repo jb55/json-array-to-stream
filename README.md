@@ -11,7 +11,7 @@
 
 ## Example
 
-  json-array-to-stream < json-array.json
+    $ json-array-to-stream < json-array.json
 
 ## License
 
