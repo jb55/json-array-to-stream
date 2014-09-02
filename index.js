@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 var json = require('JSONStream');
 
