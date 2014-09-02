@@ -1,0 +1,21 @@
+{
+  "name": "json-array-to-stream",
+  "description": "Convert elements of a JSON array to a JSON object stream",
+  "keywords": [],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/json-array-to-stream.git"
+  },
+  "bin": {
+    "json-array-to-stream": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "JSONStream": "^0.9.0"
+  },
+  "devDependencies": {
+  }
+}
